@@ -1,3 +1,4 @@
+sudo apt update 
 sudo  apt-get -y install python3-venv
 pip3 uninstall gns-server gns3-gui -y
 python3 -m venv /home/test/gns3env
