@@ -1,5 +1,4 @@
-sudo su -
-yes|apt  purge  docker-ce
+yes|sudo apt  purge  docker-ce
 
 VERSION_STRING="5:28.5.2-1~debian.11~bullseye"
 
